@@ -1,0 +1,19 @@
+{
+  "name": "angular2-spinners",
+  "version": "1.0.0",
+  "description": "Directive to include spinners whilst your app is processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "tsc"
+  },
+  "author": "Tom Christian",
+  "license": "ISC",
+  "dependencies": {
+    "angular2": "^2.0.0-beta.13"
+  },
+  "devDependencies": {
+    "typescript": "^1.8.9"
+  },
+  "typings": "./angular2-spinners.d.ts"
+}
